@@ -86,4 +86,5 @@ Contact
 For inquiries or suggestions, feel free to reach out:
 
 Email: pamelamajumder2003@gmail.com
-GitHub: 
+
+GitHub: Pamelamajumdar
