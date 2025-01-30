@@ -1,0 +1,1 @@
+# AICTE__Plant-disease-detection
